@@ -1,0 +1,58 @@
+enable: true
+title: Our Services
+subtitle: >
+  
+content:
+
+  - icon: ion-ios-albums
+    name: Technology Infrastructure Architectural/Design Services
+    text: >
+      Our Design Services provides the detailed insight you need to make the right technology decisions for your organization.  Our consultants will help you
+    deed: Assess your existing environment
+    deed1: Help you define your operational goals                                                        
+    deed2: Guide you thru the design process
+    deed3: Identify and prioritize next steps
+    deed4: Educate you on best practices and the current state of technology
+  - icon: ion-help-buoy
+    name: Disaster Recovery/Business Continuity
+    text: >
+      Disaster recovery/Business Continuity planning focuses on restoring your technology in the event of an unplanned outage.  If you have a plan we can help you review, test and design testing strategies so you will be sure it will meet your expectations.
+    deed:  >
+       Fact -  How do you avoid downtime?  Eliminate single points build in redundancy.  Additional redundancy reduces the possibility of significant down time.  Designing an affordable solution is where we excel.  We will take you through a process to define your expectations and tolerances and design a solution that meets your needs.  We can help—contact us.
+  
+
+  - icon: ion-leaf
+    name: CAMS Customizations
+    text: > 
+      As a Unit4 preferred hosting partner we provide custom development for CAMS Enterprise System including the following:
+    deed: Student Portal Customizations
+    deed1: Faculty Portal Customizations
+    deed2: Applications Portal Customizations
+    deed3: Interfaces to other systems including LMS
+    deed4: Custom Reports both Crystal Reports and SQL Server Reporting Services
+
+  - icon: ion-ios-loop-strong
+    name: Managed Services
+    text: >
+      Monitoring and managing your resources demands constant attention, if you expect to fully benefit from your technology investment.  eMobileCampus offers managed services for your systems located on the eMobileCampus Cloud
+    deed: Experienced staff responsible for system health 24x7x365
+    deed1: Preventative and proactive efforts to minimize downtime
+    deed2: Visibility and communication of system performance
+    deed3: Best of class processes to meet your operational needs in a determined fashion
+    deed4: Automated Processes and System Management Tools for monitoring system health
+ 
+ 
+  - icon: ion-headphone
+    name: Hosting
+    text: >
+      eMobileCampus offers cloud web and server hosting solutions that provides businesses, non-profits, and educational organizations with a flexible, highly scalable, and low-cost way to deliver their websites and web applications.
+    deed: Custom application Servers
+    deed1: Microsoft IIS Web Hosting
+    deed2: Microsoft SQL Server Hosting
+    deed3: LINUX hosting
+    deed4: CAMS Enterprise® Hosting 
+    
+  - icon: ion-bug
+    name: Security
+    text: >
+      Your systems require a secure environment to keep your data private and your applications running strong. eMobileCampus has extensive experience securing client hosted environments.  We offer proven strategies and solutions that will help you reduce the threat and impact of a breach.

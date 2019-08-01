@@ -1,0 +1,54 @@
+enable: true
+title: Analytics and Testimomials
+paragraph: >
+  View information obtained by Google in reference to us. Also, see what our customers are saying...
+
+number:
+  enable : true
+numbers:
+  - icon: ion-ios-chatboxes-outline
+    counter: 2000
+    text: Conversations
+  - icon: ion-ios-glasses-outline
+    counter: 2000
+    text: Searches
+  - icon: ion-ios-compose-outline
+    counter: 2000
+    text: Reviews
+  - icon: ion-ios-timer-outline
+    counter: 2000
+    text: Timeline
+
+peoples:
+  enable : true
+people:
+  - text: >
+      Whether it’s managed services, design services or hosting, eMobileCampus goes above and beyond our expectations. Nothing is more important to us than the trust our higher education  Institution clients place in us, so we are extremely protective of them when sharing relationships with third parties. Our clients consistently rave about the service they get from eMobileCampus, and we always know we can recommend them with pride and confidence.
+    quoteImg: img/cotation.png    
+    name: Stacy Rowold
+    role: Three Rivers Systems, Inc.
+    web: threerivers-cams.com
+  - text: >
+      We were looking for a resource to host our ERP solution and they were recommended to us. We’ve been working with them now for over two years and they are delightful to work with. They are responsive to our needs and their expertise is extraordinary.
+    quoteImg: img/cotation.png
+    name: Carol Daley
+    role: Catholic Distance University
+    web: www.cdu.edu
+  - text: >
+      eMobileCampus service is outstanding! I would recommend them to anybody. Through the years they have grown from a small company into a primary hosting partner. They’re the real deal. We’ve never second guessed our decision or looked back.  The best thing is I don’t have to worry about our server health.
+    quoteImg: img/cotation.png
+    name: Chris Ehlers
+    role: Bacone College
+    web: www.bacone.edu
+  - text: >
+      They have supported our infrastructure for over 10 years.  Their service is a 10 out of 10!  Anytime we need anything they are there.   They keep us informed of what is going on in technology and how we can benefit.  They are great!
+    quoteImg: img/cotation.png
+    name: Susan Richman
+    role: America's Pet Registry
+    web: www.aprpets.org
+  - text: >
+      Their service is outstanding. They are very responsive to our needs and they give us prompt responses even though the answers aren’t always easily available. They are very diligent solving our problems.
+    quoteImg: img/cotation.png
+    name: Candy Riffey
+    role: Sanford College of Nursing
+    web: bismarck.sanfordhealth.org/collegeofnursing
